@@ -1,3 +1,4 @@
+
 <p align="center">
     <img width="100" src=".github/assets/banner.png">
 </p>
@@ -71,11 +72,11 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://github.com/account"
+      src="content://media/external/downloads/1001038999"
     />
     <p>&nbsp&nbsp&nbspDamares Lourenco<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/DamaresLourenco">
     GitHub</a>&nbsp;|&nbsp;
 </p>
 <br/><br/>
