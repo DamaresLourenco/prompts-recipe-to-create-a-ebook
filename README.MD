@@ -68,6 +68,12 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 
 <p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="content://media/external/downloads/1001038999"
+    />
     
     <p>&nbsp&nbsp&nbspDamares Lourenco<br>
     &nbsp&nbsp&nbsp
