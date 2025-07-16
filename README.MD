@@ -48,7 +48,8 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | A confident superhero programmer in a modern, sleek blue-and-red suit with a flowing cape, standing heroically with hands on hips, cinematic soft lighting, blurred futuristic background with glowing code lines, modern digital illustration, minimalist graphic design, clean vector art, vibrant but muted color palette, realistic proportions, no text, no title, --v 6 --style raw 
+ |
 
 ## ✨ Features
 
