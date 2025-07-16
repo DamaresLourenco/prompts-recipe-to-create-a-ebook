@@ -48,7 +48,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A confident superhero programmer in a modern, sleek blue-and-red suit with a flowing cape, standing heroically with hands on hips, cinematic soft lighting, blurred futuristic background with glowing code lines, modern digital illustration, minimalist graphic design, clean vector art, vibrant but muted color palette, realistic proportions, no text, no title, --v 6 --style raw  |
+| título | A confident superhero programmer in a modern, sleek blue-and-red suit with a flowing cape, standing heroically with hands on hips, cinematic soft lighting, blurred futuristic background with glowing code lines, modern digital illustration, minimalist graphic design, clean vector art, vibrant but muted color palette, realistic proportions, no text, --v 6 --style raw  |
 
 ## ✨ Features
 
