@@ -29,7 +29,6 @@ seguem abaixo.
 
 ## 🧠 Prompts
 
-https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
